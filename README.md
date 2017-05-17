@@ -6,7 +6,12 @@ In order to make this code work, you need to add the `.jar` files from the follo
     
 You can download the latest jars from this [link](https://github.com/rest-assured/rest-assured/wiki/Downloads)
 
-    2. Apache httpClient
+
+       2. Groovy Jar
+       
+ You need to also add the groovy jar, which you can find [here](https://github.com/zac11/getHttpCode). Please download version 2.4.11
+
+    3. Apache httpClient
     
 You can download the latest jars of the Apache httpClient from the official download site, [here](http://hc.apache.org/downloads.cgi). I used the current version listed , which is `4.5.3`
 
